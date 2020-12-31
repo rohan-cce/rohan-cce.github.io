@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rohan-cce/rohan-cce.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###### **Here is the link of [Live Demo](https://rohan-cce.github.io/)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Technology Stack Used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Still need help?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  if (needHelp === true) {
+     var emailId = "rohanjcce@zohomail.in";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rohan-cce/rohan-cce.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Glad to see you here! Show some love by [starring](https://github.com/rohan-cce/rohan-cce.github.io) this repo.***
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@rohan-cce&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/rohan-j-ba489b19b/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@rohan-cce&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/RohanJ54824388) [![Github](https://img.shields.io/static/v1.svg?label=connect&message=@rohan-cce&color=grey&logo=github&style=flat&logoColor=white&colorA=blue)](https://github.com/rohan-cce)
